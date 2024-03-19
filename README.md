@@ -6,5 +6,5 @@
 
 ```sh
 git clone git@github.com:aditya-chaphekar/config-awesome.git
-cp config-alacritty/alacritty.toml ~/.config/alacritty/alacritty.toml
+cp config-awesome/rc.lua ~/.config/awesome/rc.lua
 ```
